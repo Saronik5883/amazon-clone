@@ -18,7 +18,7 @@ An amazon clone made in Flutter. It uses a NodeJS server as backend, also MongoD
 ## Screenshots
 
 <img src="screenshots/1.jpg" width="170" alt="Screenshot 1"> <img src="screenshots/2.jpg" width="170" alt="Screenshot 2"> <img src="screenshots/3.jpg" width="170" alt="Screenshot 3"> <img src="screenshots/4.jpg" width="170" alt="Screenshot 4"> <br>
-<img src="screenshots/5.png" width="170" alt="Screenshot 5"> <img src="screenshots/6.png" width="170" alt="Screenshot 6"> <img src="screenshots/7.png" width="170" alt="Screenshot 7">
+<img src="screenshots/5.jpg" width="170" alt="Screenshot 5"> <img src="screenshots/6.jpg" width="170" alt="Screenshot 6"> <img src="screenshots/7.jpg" width="170" alt="Screenshot 7">
 
 ## Getting Started
 
