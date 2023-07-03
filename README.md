@@ -1,4 +1,4 @@
-# amazon_clone
+# Amazon_clone
 
 An amazon clone made in Flutter. It uses a NodeJS server as backend, also MongoDB and Cloudinary(for image storage) as databases.
 
