@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'https://nodejs-server-production-b8c9.up.railway.app';
+String uri = 'YOUR IP HERE';
 
 class GlobalVariables {
   // COLORS
